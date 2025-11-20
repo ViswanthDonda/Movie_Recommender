@@ -45,6 +45,6 @@ You do *not* need to install anything manually.
 
 Clone the Repository
 
-and just run the movie_recommender.ipynb file
+and just run the movie_recommender.ipynb file in an IDE.
 
 
